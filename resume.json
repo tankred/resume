@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Kurt Duyck",
+    "label": "Coordinator Application Development",
+    "picture": "",
+    "email": "kurt.duyck@vives.be",
+    "phone": "+3256264196",
+    "summary": "Sharing ideas and working together in a productive way based on trust is the main engine that keeps me going and pushing the bounderies of what is possible within a small team of dedicated people. In relation to the business, which is education, being a PO is also having fun whilst building bridges between silo's. Providing creative solutions in a rapid evolving environment.",
+    "location": {
+      "address": "Jean Jaureslaan 31",
+      "postalCode": "B9050",
+      "city": "Gentbrugge",
+      "countryCode": "BE",
+      "region": "Oost-Vlaanderen"
+    },
+ "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "kurtduyck",
+        "url": "https://be.linkedin.com/in/kurtduyck"
+      }    ]
+  },
+  "work": [
+    {
+      "company": "VIVES",
+      "position": "Coordinator Application Development",
+      "website": "http://www.vives.be",
+      "startDate": "2009-08-16",
+      "summary": "Design your future",
+      "highlights": [
+        "Planning, coaching, communication",
+        "Successfully implemented agile workflow",
+        "Certified Scrum master, 2-day training (24-06-2014), Scrum"
+      ]
+    },
+    {
+      "company": "KATHO",
+      "position": "webdeveloper",
+      "website": "http://www.katho.be",
+      "startDate": "2009-08-16",
+      "endDate": "2015-03-15",
+      "summary": "Webdevelopment with a focus on internal and external communication",
+      "highlights": [
+	"webapplication development","branding katho.be", "newsletters","social media", "intranet (Sharepoint)"
+      ]
+    },
+    {
+      "company": "Quadri",
+      "position": "webdeveloper and sysadmin",
+      "website": "http://www.quadri.be",
+      "startDate": "2008-03-16",
+      "endDate": "2009-08-16",
+      "summary": "all round ICT with a focus on webdevelopment",
+      "highlights": [
+	"webapplication","digital asset management","branding sites","account management","system administration: Sun Solaris, Mac Os X and Windows server 2003","networking: TCP/IP, SMTP, firewall"
+      ]
+    },
+    {
+      "company": "Link2Biz",
+      "position": "Webdeveloper",
+      "website": "http://www.link2biz.be",
+      "startDate": "2004-05-02",
+      "endDate": "2008-03-15",
+      "summary": "B2B webdevelopment",
+      "highlights": [
+        "Ecommerce", "Design and administering MS-SQL databases", "Web application development"
+      ]
+    }
+  ,
+    {
+      "company": "DigiPoint",
+      "position": "New media designer",
+      "website": "http://www.digipoint.be",
+      "startDate": "2001-02-15",
+      "endDate": "2003-08-31",
+      "summary": "Outsourced consultant for Electrabel",
+      "highlights": [
+"webdesign", "newsletter design", "dynamic templates", "18-language EBL portal maintenance", "website performance tuning", "accessability audit (WAI guidelines)", "usability audit", "CMS implementation"
+      ]
+    },
+    {
+      "company": "Aditel",
+      "position": "System engineer",
+      "website": "",
+      "startDate": "2000-08-15",
+      "endDate": "2001-02-15",
+      "summary": "Webdevelopment",
+      "highlights": [
+        "XSLT-templates (Java based EDI-application)", "Branding", "Writing guided tours and online help"
+      ]
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "LUCA School of Arts",
+      "area": "Visual arts",
+      "studyType": "Master",
+      "startDate": "1996-09-15",
+      "endDate": "2000-06-30",
+      "gpa": "4.0",
+      "courses": [
+        "javascript",
+        "html"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Kortrijk - STIMULANS - graphics award",
+      "date": "2014-11-01",
+      "awarder": "Stad Kortrijk",
+      "summary": "De biënnale voor jonge beeldende kunstenaars uit West-Vlaanderen"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+	"XML",
+	"T-SQL",
+	"C#",
+	"Powershell",
+	"Git"
+      ]
+    },
+    {
+      "name": "Agile development",
+      "level": "Master",
+      "keywords": [
+        "scrum",
+        "kanban"
+      ]
+    },
+{
+      "name": "Application security",
+      "level": "Intermediate",
+      "keywords": [
+        "scanning",
+        "pentest"
+      ]
+    },
+    {
+      "name": "UX",
+      "level": "Intermediate",
+      "keywords": [
+        "wireframing",
+	"Usability",
+	"Accessibility",
+	"SEO",
+	"E-mailing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Art",
+      "keywords": [
+        "Contemporary art",
+        "Painting, Sculpture, net.art"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Davy Priem",
+      "reference": "Very nice collegue. Friendly and is a very good teamplayer."
+    }
+  ]
+}
