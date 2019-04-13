@@ -1,3 +1,5 @@
 .gitignore~
 *.swp
+x.md
 /resources/
+/node_modules/
