@@ -22,7 +22,7 @@ a {
 }
 
 hr {
-  border-bottom: 1px solid #d8dee9;
+  border-bottom: 1px dotted #d8dee9;
 }
 
 header h1 {
