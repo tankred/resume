@@ -15,6 +15,13 @@ My resume on GitHub, because
 
 [5 reasons why Git based resume is awesome](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127)
 
+## Export to pdf 
+
+use wkhtmltopdf (scoop install wkhtmltopdf) 
+
+` wkhtmltopdf resume.html resume-kurt-duyck.pdf `
+
+
 ## Contribution
 
 I am not a native English speaker, so if you find something wrong, please create an issue or send a pr.
