@@ -70,6 +70,15 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
+## Export to pdf 
+
+use wkhtmltopdf (scoop install wkhtmltopdf) 
+
+` wkhtmltopdf resume.html resume-kurt-duyck.pdf `
+
+
+## Contribution
+
 I am not a native English speaker, so if you find something wrong, please create an issue or send a pr.
 
 Thanks in advance.
