@@ -30,6 +30,7 @@
       "highlights": [
         "Planning, coaching, communication",
         "Successfully implemented agile workflow",
+	"Implementing CI/CD",
         "Certified Scrum master, 2-day training (24-06-2014), Scrum"
       ]
     },
@@ -118,14 +119,14 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-	"XML",
-	"T-SQL",
 	"C#",
+        "CSS",
+	"Docker (fundamentals)", 
+	"Git",
+        "HTML",
+        "Javascript",
 	"Powershell",
-	"Git"
+	"T-SQL"
       ]
     },
     {
