@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.3] - 2020-02-16
 ### Added
 - assets/Duyck Kurt-rapport.pdf (ignored in repo)
+- assets/POP geschreven notas bij kerntalentenrapport
 
 ## [2.0.2] - 2020-01-31
 ### Added
