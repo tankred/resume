@@ -176,7 +176,9 @@
       "name": "Art",
       "keywords": [
         "Contemporary art",
-        "Painting, Sculpture, net.art"
+        "Painting", 
+	"Sculpture", 
+	"net.art"
       ]
     }
   ],
