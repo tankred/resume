@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.5] - 2020-06-22
+### Changed
+- Add notes from RTM
+- [http://jsonresume.org/blog/5th-birthday-new-features](http://jsonresume.org/blog/5th-birthday-new-features)
+- add json resume to gist
+- [https://registry.jsonresume.org/tankred](https://registry.jsonresume.org/tankred)
+- check for updates:
+- sudo npm install -g resume on yasuko
+- update werkervaring Aditel, Digipoint
+- Quadri, Link2Biz
+- fix Awards and left Publications
+
 ## [2.0.4] - 2020-02-25
 ### Changed
 - Split keywords art
